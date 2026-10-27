@@ -1,18 +1,17 @@
-# Segredos e arquivos locais
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Segredos
 .env
 .env.*
 !.env.example
 *.pem
 *.key
-*.p12
-*.pfx
-__pycache__/
-.pytest_cache/
-.venv/
-.venv*/
-node_modules/
-.DS_Store
-Thumbs.db
-*.log
-*.sqlite
+# Dados locais
 *.db
+*.sqlite3
+*.log
+.DS_Store

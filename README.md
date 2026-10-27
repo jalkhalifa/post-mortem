@@ -38,3 +38,10 @@ O código do backend comercial, as credenciais, os dados de clientes e os arquiv
 Projeto desenvolvido e mantido por **JalKhalifa**. A plataforma e os materiais POST MORTEM são produtos próprios; a disponibilização deste código demonstrativo não concede licença para reprodução comercial dos conteúdos e da marca.
 
 **POST MORTEM | Dissecando o edital**
+
+
+## Código Python demonstrativo
+
+Além do frontend, este repositório apresenta módulos Python reais em [`backend/`](backend/): motor determinístico de cronogramas, leitura estruturada de editais, integração de extração assistida por IA e geração de PDFs interativos.
+
+**Escopo:** o backend comercial completo, incluindo autenticação, compras e créditos, permanece privado. Estes arquivos são para análise de código, não para implantar o serviço de produção.
